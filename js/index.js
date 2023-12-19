@@ -8,4 +8,6 @@ if (moyenne_user < 10 ) {
     alert("Tu es reçu avec mention :) !");
 } else if (moyenne_user > 20) {
     alert("Ta moyenne ne peut dépasser 20 ! ");
+} else {
+    alert("On t'a demandé un nombre !")
 }
